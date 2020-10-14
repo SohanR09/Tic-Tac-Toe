@@ -1,4 +1,4 @@
-# Tic-Tac-Toe :pushpin: Demo: [View Icons](https://fileicons.org/)
+# Tic-Tac-Toe :pushpin: 
 A basic tic-tac-toe game.
 
 All the basic concepts and build in function of [python](https://www.python.org/) are used for creating an complete tic-tac-toe game.
